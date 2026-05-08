@@ -6,3 +6,6 @@ electron-data/
 .venv/
 build/
 
+.idea/
+code-review/
+
