@@ -74,9 +74,10 @@ body {
     color: #ffffff;
 }
 
-.nav-btn svg {
+.nav-btn .icon {
     width: 24px;
     height: 24px;
+    object-fit: contain;
 }
 
 .content {
